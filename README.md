@@ -6,3 +6,9 @@ Hola mundo! 
 
 
 Me llamo Andrés Morales :v
+
+
+CLONE  # TRAER ALGO NUEVO
+
+PULL # ACTUALIZAR LO QUE YA SE TIENE 
+PUSH # EMPUJAR AL COMPA (MANDAR LA INFO)
